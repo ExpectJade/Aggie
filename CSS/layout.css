@@ -60,3 +60,14 @@ p.captions{
 	font-style: italic;
 	margin-top: 0;
 }
+
+ul img {
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	border: 10px solid #F9A03F;
+}
+
+ul{
+	text-align: center;
+}
