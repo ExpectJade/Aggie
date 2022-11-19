@@ -7,7 +7,7 @@ body{
 }
 
 header{
-	background-color: #58D68D;
+	background-color: #873e23;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -64,7 +64,7 @@ a:hover{
 }
 
 p.captions{
-	color: darkred;
+	color: #F9A03F;
 	font-style: italic;
 	margin-top: 0;
 }
